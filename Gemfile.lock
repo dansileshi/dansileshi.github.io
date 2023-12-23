@@ -258,8 +258,6 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2023.4)
-      tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.9.1-x64-mingw-ucrt)
@@ -274,7 +272,6 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
-  tzinfo-data
   wdm (~> 0.1.0)
 
 BUNDLED WITH
