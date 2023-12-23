@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Asfaw / Site Title"
+title                    : "Daniel Asfaw "
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Daniel Asfaw"
 description              : &description "personal description"
 url                      : https://dansileshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
