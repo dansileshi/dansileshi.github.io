@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Daniel's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Daniel Asfaw"
 description              : &description "personal description"
 url                      : https://dansileshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &dansileshi
+  username               : &asfaw_dan
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Daniel Asfaw"
   avatar           : "profile.png"
   bio              : "Data scientist/ ML engineer"
-  location         : "UK"
+  location         : "London,UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/daniel-asfaw/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
