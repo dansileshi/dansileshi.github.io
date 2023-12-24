@@ -18,7 +18,7 @@ Education
 - **Ph.D. in Applied Vision Science**
   - [Analysis of natural eye movements to assess visual field loss in glaucoma](https://openaccess.city.ac.uk/id/eprint/25184/)
   - *City University of London* (2020)
-  - Supervisor: Professor David Crabb
+  - Supervisor: [Professor David Crabb](https://www.city.ac.uk/about/people/academics/david-crabb)
 
 Work Experience
 ======
@@ -31,14 +31,26 @@ Work Experience
   - Area: Eye movement research.
 
 - **Research Associate**
-  - *City University of London* (2016 - 2017)
+  - *University of Girona, Spain* (2016 - 2017)
   - Project: Deep learning for multiple sclerosis detection from MRI images.
 
 Skills
 ======
-- **Programming Languages**: Matlab, R, Python (Numpy, Scipy, Scikit-image, Mayavi), OpenCV, C/C++, SQL
-- **Data Analysis**
-  - Machine Learning, Deep Learning, AWS
+- - **Programming Languages**
+  - **Python**: Proficient in Numpy, Scipy, Scikit-image, Mayavi; experienced in data manipulation and machine learning tasks.
+  - **Matlab**: Advanced data analysis and visualization.
+  - **R**: Statistical computing and graphics.
+  - **OpenCV**: Image processing and computer vision.
+  - **C/C++**: Strong fundamentals in structured and object-oriented programming.
+  - **SQL**: Database management and query optimization.
+
+- **Data Analysis & Machine Learning**
+  - **Machine Learning**: Experience in building predictive models and algorithms.
+  - **Deep Learning**
+    - **Frameworks**: Proficient in TensorFlow and PyTorch.
+    - **Applications**: Specialized in time series analysis, text processing, and image analysis.
+  - **AWS**: Knowledge of cloud-based solutions for data processing and machine learning workflows.
+
 - **Other Skills**
   - Linux, Windows OS, Git, LaTeX
 
