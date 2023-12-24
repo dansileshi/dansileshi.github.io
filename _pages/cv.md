@@ -16,7 +16,7 @@ Education
 - **M.Sc. in Vision, Image & Robotics (VIBOT) - Erasmus Mundus**
   - *University of Burgundy, University of Girona, Heriot-Watt University* (2016)
 - **Ph.D. in Applied Vision Science**
-  - [Analysis of natural eye movements to assess visual field loss in glaucoma] (https://openaccess.city.ac.uk/id/eprint/25184/)
+  - [Analysis of natural eye movements to assess visual field loss in glaucoma](https://openaccess.city.ac.uk/id/eprint/25184/)
   - *City University of London* (2020)
   - Supervisor: Professor David Crabb
 
