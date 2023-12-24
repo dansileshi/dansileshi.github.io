@@ -48,7 +48,7 @@ Skills
   - **Machine Learning**: Experience in building predictive models and algorithms.
   - **Deep Learning**
     - **Frameworks**: Proficient in TensorFlow and PyTorch.
-    - **Applications**: Specialized in time series analysis, text processing, and image analysis.
+    - **Applications**: Specialized in time series, text processing, and image analysis.
   - **AWS**: Knowledge of cloud-based solutions for data processing and machine learning workflows.
 
 - **Other Skills**
