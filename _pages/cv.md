@@ -36,7 +36,7 @@ Work Experience
 
 Skills
 ======
-- - **Programming Languages**
+- **Programming Languages**
   - **Python**: Proficient in Numpy, Scipy, Scikit-image, Mayavi; experienced in data manipulation and machine learning tasks.
   - **Matlab**: Advanced data analysis and visualization.
   - **R**: Statistical computing and graphics.
