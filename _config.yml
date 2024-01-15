@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://dansileshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dansileshi/dansileshi.github.io"
-teaser                   :  "/images/my_pic.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  #"/images/my_pic.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Asfaw"
-  avatar           : "/images/bio-photo.png"
+  avatar           : "/images/bio-photo.jpg"
   bio              : "Data scientist/ ML engineer"
   location         : "London,UK"
   employer         :
