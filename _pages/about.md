@@ -7,8 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am data scientist specializing in healthcare applications, my expertise lies in leveraging deep learning techniques to analyze complex medical data. With a background in electronics and communication engineering, I bring a unique perspective to data science. My significant contribution includes developing data analysis methodologies for detecting medical conditions, notably in glaucomatous visual field loss and prenatal healthcare.
 
-In my current role, I apply deep learning to fetal heart rate analysis, focusing on cardiotocography (CTG) to improve early detection of risks in prenatal health.
+
+Hello, I'm Daniel. As a Data Scientist and Machine Learning Engineer, my expertise spans image analysis, time series, and natural language processing, complemented by advanced statistical methods. My work has significantly contributed to research in the healthcare sector, particularly in analyzing healthcare records, medical image analysis, patient data analytics, and disease diagnosis.
+
+I am dedicated to harnessing data to drive innovation, inform strategic business decisions, and foster societal progress. My approach is meticulous and focused on transforming complex data into actionable insights for businesses, communities, and broader society. I leverage data as a tool for positive change, ensuring tangible results across diverse sectors and emphasizing strategic, data-driven innovation.
+
+Committed to staying ahead in my field, I continuously embrace new technologies and methodologies, enhancing my capability to meet and solve various challenges effectively.
+
+
+
 
 # Selected projects
