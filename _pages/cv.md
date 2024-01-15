@@ -24,15 +24,15 @@ Work Experience
 ======
 - **Researcher/Data Scientist**
   - *University of Portsmouth / University of Oxford* (2021 - Present)
-  - Focus: Development of deep learning models for predicting adverse birth outcomes.
+  - Project area: Development of deep learning models for predicting adverse birth outcomes.
 
 - **Researcher**
   - *City University of London* (2020 - 2021)
-  - Area: Eye movement research.
+  - Project area: Analyzing eye movements for anomaly detection..
 
 - **Research Associate**
   - *University of Girona, Spain* (2016 - 2017)
-  - Project: Deep learning for multiple sclerosis detection from MRI images.
+  - Project area: Deep learning for multiple sclerosis detection from MRI images.
 
 Skills
 ======
