@@ -42,17 +42,28 @@ Skills
   - **R**: Statistical computing and graphics.
   - **OpenCV**: Image processing and computer vision.
   - **C/C++**: Strong fundamentals in structured and object-oriented programming.
+  - **C#**: Familiar with C# programming concepts.
   - **SQL**: Database management and query optimization.
 
 - **Data Analysis & Machine Learning**
-  - **Machine Learning**: Experience in building predictive models and algorithms.
+  - **Machine Learning**: Experience in building predictive models and algorithms with Scikit-learn.
   - **Deep Learning**
-    - **Frameworks**: Proficient in TensorFlow and PyTorch.
+    - **Frameworks**: Proficient in TensorFlow, PyTorch, and Keras.
     - **Applications**: Specialized in time series, text processing, and image analysis.
-  - **AWS**: Knowledge of cloud-based solutions for data processing and machine learning workflows.
+  - **Statistics**: Strong foundation in statistical analysis using R and Python (Scipy).
+
+- **Cloud Platforms & MLOps Tools**
+  - **Cloud Platforms**: Experience with AWS and Azure for cloud-based solutions in data processing and machine learning workflows.
+  - **MLOps Tools**: Proficient in AWS SageMaker, Azure Machine Learning, Databricks, MLflow. Intermediate knowledge in Docker, Kubernetes, and Kubeflow.
+
+- **Data Management**
+  - **Techniques**: Proficient in Pandas, intermediate experience with Spark SQL.
 
 - **Other Skills**
-  - Linux, Windows OS, Git, LaTeX
+  - **Operating Systems**: Linux, Windows OS
+  - **Version Control**: Git
+  - **Documentation**: LaTeX
+
 
 
 <!--
