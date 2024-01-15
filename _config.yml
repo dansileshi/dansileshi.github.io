@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Asfaw"
-  avatar           : "/images/profile_.png"
+  avatar           : images/profile_.png
   bio              : "Data scientist/ ML engineer"
   location         : "London,UK"
   employer         :
