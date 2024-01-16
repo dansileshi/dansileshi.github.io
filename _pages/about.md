@@ -13,7 +13,7 @@ Hello, I'm Daniel. As a Data Scientist and Machine Learning Engineer, my experti
 
 I am dedicated to harnessing data to drive innovation, inform strategic business decisions, and foster societal progress. My approach is meticulous and focused on transforming complex data into actionable insights for businesses, communities, and broader society. I leverage data as a tool for positive change, ensuring tangible results across diverse sectors and emphasizing strategic, data-driven innovation.
 
-Committed to staying ahead in my field, I continuously embrace new technologies and methodologies, enhancing my capability to meet and solve various challenges effectively.
+Committed to staying ahead in my field, I continuously embrace new technologies and methodologies, enhancing my capability to meet and solve various data related challenges effectively.
 
 
 
