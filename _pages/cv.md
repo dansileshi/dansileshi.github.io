@@ -39,9 +39,8 @@ Skills
 - **Programming Languages**
   - **Python**: Proficient in Numpy, Scipy, Scikit-image, Mayavi; experienced in data manipulation and machine learning tasks.
   - **Matlab**: Advanced data analysis and visualization.
-  - **R**: Statistical computing and graphics.
-  - **OpenCV**: Image processing and computer vision.
-  - **C/C++**: Strong fundamentals in structured and object-oriented programming.
+  - **R**: Statistical computing and data visualisation.
+  - **C/C++ and OpenCV**: Strong fundamentals in structured and object-oriented programming.
   - **C#**: Familiar with C# programming concepts.
 
 - **Data Analysis & Machine Learning**
@@ -49,7 +48,7 @@ Skills
   - **Deep Learning**
     - **Frameworks**: Proficient in TensorFlow/Keras and PyTorch.
     - **Applications**: Specialized in time series, text processing, and image analysis.
-  - **Statistics**: Strong foundation in statistical analysis using R and Python (Scipy).
+  - **Statistics**: Proficient in analysing and interpreting using R and Python(Scipy).
 
 - **Cloud Platforms & MLOps Tools**
   - **Cloud Platforms**: Experience with AWS and Azure for cloud-based solutions in data processing and machine learning workflows.
