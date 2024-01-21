@@ -41,7 +41,7 @@ Skills
   - **Matlab**: Advanced data analysis and visualization.
   - **R**: Statistical computing and data visualisation.
   - **C/C++ and OpenCV**: Strong fundamentals in structured and object-oriented programming.
-  - **C#**: Familiar with C# programming concepts.
+  - **C#**: Familiar with C# programming.
 
 - **Data Analysis & Machine Learning**
   - **Machine Learning**: Experience in building predictive models and algorithms with Scikit-learn.
