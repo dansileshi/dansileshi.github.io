@@ -16,5 +16,4 @@ My dedication lies in effectively utilizing data to spark innovation and guide s
 Committed to staying ahead in my field, I continuously embrace new technologies and methodologies, enhancing my capability to meet and solve various data related challenges effectively.
 
 
-<! -- # Selected projects comment -->
 
