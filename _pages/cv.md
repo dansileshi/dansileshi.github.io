@@ -52,13 +52,14 @@ Skills
 
 - **Cloud Platforms & MLOps Tools**
   - **Cloud Platforms**: Experience with AWS and Azure for cloud-based solutions in data processing and machine learning workflows.
-  - **MLOps Tools**: Proficient in AWS SageMaker, Azure Machine Learning, Databricks, MLflow. Intermediate knowledge in Docker, Kubernetes, and Kubeflow.
+  - **MLOps Tools**: Proficient in AWS SageMaker, Azure Machine Learning, Databricks, MLflow. 
+  Intermediate experience in Docker, Kubernetes, and Kubeflow.
 
 - **Data Management**
-  - **Techniques**: Proficient in Pandas and SQL. Intermediate experience with Spark SQL.
+  - **Techniques**: Proficient in Pandas, Polars, and SQL. Intermediate experience with PySpark.
 
 - **Other Skills**
-  - **Operating Systems**: Linux, Windows OS
+  - **Operating Systems**: Linux, Windows
   - **Version Control**: Git
   - **Documentation**: LaTeX
 
