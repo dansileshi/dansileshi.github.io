@@ -18,4 +18,4 @@ Committed to staying ahead in my field, I continuously embrace new technologies 
 
 
 
-# Selected projects
+%# Selected projects
