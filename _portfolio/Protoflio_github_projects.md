@@ -36,8 +36,8 @@ collection: portfolio
 
 | Repo                             | Description                                                                                                                    | Link |
 |----------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------|
-| **AWS SageMaker in Production**  | End-to-End curated examples that show how to solve business problems using Amazon SageMaker and its ML/DL algorithms. Mostly in Jupyter Notebook for easy accessibility | [Link](#) |
+| **AWS SageMaker in Production**  | End-to-End curated examples that show how to solve business problems using Amazon SageMaker and its ML/DL algorithms.  | [Link](#) |
 | **PySpark**                      | PySpark functions and utilities with Real-world Data examples.      | [Link](https://github.com/dansileshi/PySpark_ML) |
 | **Recommendation System**        | Production-level Implementations of Recommender systems ( will update soon)       | [Link](#) |
 | **Natural Language Processing (NLP) Examples** | Full implementation examples of several Natural Language Processing methods in Python. | [Link](https://github.com/dansileshi/Text_analysis) |
-| **Time series data anlaysis Examples** | Full implementation examples of multiple time series data or signal anlaysis  | [Link](https://github.com/dansileshi/Eye-Movement-kde-analysis) |
+| **Time series data analysis Examples** | Full implementation examples of multiple time series data or signal anlaysis  | [Link](https://github.com/dansileshi/Eye-Movement-kde-analysis) |
