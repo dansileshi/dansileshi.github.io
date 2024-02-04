@@ -28,7 +28,7 @@ Work Experience
 
 - **Researcher**
   - *City University of London* (2020 - 2021)
-  - Project area: Analyzing eye movements for anomaly detection..
+  - Project area: Analyzing eye movements for anomaly detection.
 
 - **Research Associate**
   - *University of Girona, Spain* (2016 - 2017)
