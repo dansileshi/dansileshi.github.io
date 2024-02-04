@@ -1,8 +1,3 @@
----
-title: "Portfolio Item Title"
-excerpt: "Short description of the portfolio item"
-collection: portfolio
----
 
 
 ### Languages and Tools:
