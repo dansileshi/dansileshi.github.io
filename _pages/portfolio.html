@@ -7,8 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  <div class="portfolio-item">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.excerpt }}</p>
+    
+    <!-- Display Languages and Tools directly -->
+    <h3>Languages and Tools:</h3>
+    {{ post.content | markdownify }}
+    
+    <!-- If you have structured data for repositories or tools, iterate over them here -->
+    
+  </div>
 {% endfor %}
-
